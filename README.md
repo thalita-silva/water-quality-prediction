@@ -7,6 +7,7 @@
 # <h3> 📋 Description: </h3>
   Water is one of the most important natural elements, in which the consumption of drinking water is of extreme importance for most living things on earth. 
 With this in mind, the goal is to develop a training model for classifying the potability of samples collected from water bodies, using decision trees.
+# <h4> 📈  Average accuracy >= 50% </h4>
 
 # <h3> 💡 Features: </h3>
 |pH   |Hardness|Solids |Sulfate |Conductivity|Organic_Carbon|Trihalomethanes|Turbidity|
@@ -20,6 +21,8 @@ With this in mind, the goal is to develop a training model for classifying the p
 |----------|
 | 0        |
 | 1        |
+
+
 
 
 
